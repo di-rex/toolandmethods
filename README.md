@@ -1,6 +1,4 @@
-﻿# electroinv
-
-FIXME
+﻿
 
 ## Prerequisites
 
@@ -14,6 +12,4 @@ To start [Leiningen] web server for the application, run:
 
     lein ring server
 
-## License
 
-Copyright © 2014 FIXME
